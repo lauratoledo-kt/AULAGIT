@@ -12,6 +12,11 @@
 - git add * | git add .
 - git commit -m 'mensagem do commit'
 ## Push
-- git push origin main | master 
+- git push origin main | master
+## Clone, Fetch e Pull
+- git clone (repositório)
+- git fetch
+- git status
+- git pull
 
 
